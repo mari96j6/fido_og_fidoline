@@ -31,7 +31,7 @@ export default function Forside() {
 
   return (
     <main>
-      hej
+      hej med dig
       <div className="forsidebillede">
         <img
           src={bulldog}
